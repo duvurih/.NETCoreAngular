@@ -3,3 +3,13 @@
 ################################################################################
 
 /MicroServicesCQRSDotNetCore/Dot.Net.Core.Common/bin/Debug/netcoreapp2.0
+/MicroServicesCQRSDotNetCore/Dot.Net.Core.Common/obj
+/MicroServicesCQRSDotNetCore/Dot.Net.Core.Interfaces/bin/Debug/netcoreapp2.0
+/MicroServicesCQRSDotNetCore/Dot.Net.Core.Interfaces/obj
+/MicroServicesCQRSDotNetCore/Dot.Net.Infrastructure.Data/bin/Debug/netcoreapp2.0
+/MicroServicesCQRSDotNetCore/Dot.Net.Infrastructure.Data/obj
+/MicroServicesCQRSDotNetCore/DotNetCoreAPIServices/bin/Debug/netcoreapp2.0
+/MicroServicesCQRSDotNetCore/DotNetCoreAPIServices/obj
+/MicroServicesCQRSDotNetCore/MicroServicesCQRSDotNetCore/bin/Debug/netcoreapp2.0
+/MicroServicesCQRSDotNetCore/MicroServicesCQRSDotNetCore/obj
+/MicroServicesCQRSDotNetCore/.vs/MicroServicesCQRSDotNetCore/v15/Server/sqlite3/db.lock
